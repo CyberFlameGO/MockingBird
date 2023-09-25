@@ -18,7 +18,7 @@ pypinyin
 flask
 flask_wtf
 flask_cors==3.0.10
-gevent==21.8.0
+gevent==23.9.1
 flask_restx
 tensorboard
 streamlit==1.8.0
